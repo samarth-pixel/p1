@@ -1,0 +1,9 @@
+Rules: Use mouse click to elevate the plane with the force of gravity.  Avoid thunder clouds that could harm your plane and take away a life. 
+Collect gas cans to increase fuel in the plane allowing it to not lose all of it along the way.  Collect coins to increase score.
+
+
+Goal: Get the highest score possible flying without running out of gas or hitting a thunder cloud and losing all 3 lives.
+
+
+Story: You are flying in a plane and you see these gold coins and try to grab them but dangerous thunder clouds stand in your way to the gold coins, your fuel is also
+decreasing while flying so you try to collect these fuel cans that are falling from the sky due to some odd phenomenon.
